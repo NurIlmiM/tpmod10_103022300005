@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\MOD10\\tpmodul10_103022300005\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5323CA77-6A48-446E-A5E0-E06C4A831FB7}|tpmodul10_103022300005\\tpmodul10_103022300005.csproj|c:\\users\\huawei\\documents\\semester 4\\praktikum konstruksi pl\\mod10\\tpmodul10_103022300005\\tpmodul10_103022300005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5323CA77-6A48-446E-A5E0-E06C4A831FB7}|tpmodul10_103022300005\\tpmodul10_103022300005.csproj|solutionrelative:tpmodul10_103022300005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\MOD10\\tpmodul10_103022300005\\tpmodul10_103022300005\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul10_103022300005\\Program.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\MOD10\\tpmodul10_103022300005\\tpmodul10_103022300005\\Program.cs",
+              "RelativeToolTip": "tpmodul10_103022300005\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:38:43.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
